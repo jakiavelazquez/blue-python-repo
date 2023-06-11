@@ -1,0 +1,6 @@
+hours = input('How many hours did you work last month? ')
+float_hours = float(hours)
+hourly_rate = input('What is your hourly rate? ')
+float_hourly_rate = float(hourly_rate)
+calculated_salary = float(hours) * float(hourly_rate)
+print('Last month, you earned', calculated_salary, 'dollars')
