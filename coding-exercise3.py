@@ -1,0 +1,5 @@
+print('Enter your login: ')
+login = input()
+print('Enter your native language: ')
+language = input()
+print('Your login is', login, 'and you speak', language,)
