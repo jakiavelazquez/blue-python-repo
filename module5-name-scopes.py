@@ -1,0 +1,17 @@
+def show_truth():
+    mysterious_var = 'New surprise!'
+    print (mysterious_var)
+
+mysterious_var = 'Surprise!'
+print(mysterious_var)
+show_truth()
+print(mysterious_var)
+
+def show_truth():
+    mysterious_var.append('New surprise!')
+    print (mysterious_var)
+
+mysterious_var = ['Surprise!']
+print(mysterious_var)
+show_truth()
+print(mysterious_var)
