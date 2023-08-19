@@ -1,0 +1,74 @@
+[33mcommit 6e288599b7155c91f9e373d1fb44322e5b59faf2[m[33m ([m[1;36mHEAD -> [m[1;32mjvelazquez-08182023[m[33m, [m[1;31morigin/jvelazquez-08182023[m[33m)[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Sat Aug 19 16:16:18 2023 +0000
+
+    Create list of dictionaries
+
+[33mcommit 1f924f60aceb49b0d6d4be7a405de2ee36230805[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Sat Aug 19 16:15:56 2023 +0000
+
+    delete
+
+[33mcommit 605f207d8bf187af580b2dde3dddf7b234b2fa98[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Fri Aug 18 22:55:16 2023 +0000
+
+    week13
+
+[33mcommit 39657e6567c925037b6eed1a03054582ae7782a8[m[33m ([m[1;31morigin/jvelazquez-06202023[m[33m, [m[1;32mjvelazquez-06202023[m[33m)[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Tue Jun 20 20:45:12 2023 +0000
+
+    list-buckets
+
+[33mcommit 9a3e32d400e6b5edc6edc785019f0ee5e20027bc[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Tue Jun 20 20:32:40 2023 +0000
+
+    first-boto
+
+[33mcommit 925c13008dfd6d6ede9558ab351fb66a27712eff[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: ea345d5 e04c69c
+Author: Jakia Velazquez <129625808+jakiavelazquez@users.noreply.github.com>
+Date:   Fri Jun 16 20:42:18 2023 -0400
+
+    Merge pull request #49 from jakiavelazquez/jvelazquez-06162023
+    
+    intro-functions
+
+[33mcommit e04c69cd18b4c8dfeaa981f9378b08f8133e0b90[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Sat Jun 17 00:41:45 2023 +0000
+
+    intro-functions
+
+[33mcommit ea345d5617b58f801568b893dbd26f364220e926[m
+Merge: c6f3224 0db2c9f
+Author: Jakia Velazquez <129625808+jakiavelazquez@users.noreply.github.com>
+Date:   Thu Jun 15 22:46:28 2023 -0400
+
+    Merge pull request #48 from jakiavelazquez/jvelazquez-06152023
+    
+    exercise9
+
+[33mcommit 0db2c9fd84e516ac39d1cb68e79f878709afee5d[m[33m ([m[1;31morigin/jvelazquez-06152023[m[33m, [m[1;32mjvelazquez-06152023[m[33m)[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Fri Jun 16 02:46:05 2023 +0000
+
+    exercise9
+
+[33mcommit c6f32242b301c17fa2ecea7b0686f4be73436d34[m
+Merge: 87717d8 a6445a7
+Author: Jakia Velazquez <129625808+jakiavelazquez@users.noreply.github.com>
+Date:   Thu Jun 15 22:32:37 2023 -0400
+
+    Merge pull request #47 from jakiavelazquez/jvelazquez-06152023
+    
+    dict-operations
+
+[33mcommit a6445a780b7eee90429974c7eafc56bf8443e003[m
+Author: Jakia Velazquez <jakiadavis84@gmail.com>
+Date:   Fri Jun 16 02:32:16 2023 +0000
+
+    dict-operations
